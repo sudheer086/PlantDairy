@@ -15,7 +15,8 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
 
-    fun addOneAndTwo() {
+    fun addOne2AndTwo() {
+
 
     }
 }
