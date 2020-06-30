@@ -39,5 +39,4 @@ dependencies {
     androidTestImplementation 'androidx.arch.core:core-testing:2.0.0'
     testImplementation 'io.mockk:mockk:1.8.9'
 
-
 }
